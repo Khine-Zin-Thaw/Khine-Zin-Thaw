@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Khine-Zin-Thaw
-- 👀 I’m interested in Website Developing.
-- 🌱 I’m currently learning PHP.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Khine-Zin-Thaw/Khine-Zin-Thaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Khine Zin Thaw (Honey).
+- 👀 I’m passionate about Web Development and creating user-friendly interfaces.
+- 🌱 I’m currently learning and exploring backend technologies.
+- 💻 Most of my projects are private on GitHub, but I’m happy to share details upon request.
+- 💞️ I’m looking to collaborate on innovative web-based projects and SaaS applications.
+- 📫 How to reach me: khinezinthaw9597@gmail.com or connect with me on www.linkedin.com/in/khine-zin-thaw-150baa24b.
